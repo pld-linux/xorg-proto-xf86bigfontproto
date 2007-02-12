@@ -1,5 +1,5 @@
 Summary:	XF86BigFont protocol and ancillary headers
-Summary(pl.UTF-8):   Nagłówki protokołu XF86BigFont i pomocnicze
+Summary(pl.UTF-8):	Nagłówki protokołu XF86BigFont i pomocnicze
 Name:		xorg-proto-xf86bigfontproto
 Version:	1.1.2
 Release:	1
@@ -21,7 +21,7 @@ Nagłówki protokołu XF86BigFont i pomocnicze.
 
 %package devel
 Summary:	XF86BigFont protocol and ancillary headers
-Summary(pl.UTF-8):   Nagłówki protokołu XF86BigFont i pomocnicze
+Summary(pl.UTF-8):	Nagłówki protokołu XF86BigFont i pomocnicze
 Group:		X11/Development/Libraries
 Requires:	xorg-proto-fontsproto-devel
 
