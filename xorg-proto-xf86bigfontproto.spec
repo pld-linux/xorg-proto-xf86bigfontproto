@@ -1,12 +1,12 @@
 Summary:	XF86BigFont protocol and ancillary headers
 Summary(pl.UTF-8):	Nagłówki protokołu XF86BigFont i pomocnicze
 Name:		xorg-proto-xf86bigfontproto
-Version:	1.1.2
-Release:	2
+Version:	1.2.0
+Release:	1
 License:	MIT
 Group:		X11/Development/Libraries
 Source0:	http://xorg.freedesktop.org/releases/individual/proto/xf86bigfontproto-%{version}.tar.bz2
-# Source0-md5:	a318c1e86123832d7b0c95fc7d47ef35
+# Source0-md5:	120e226ede5a4687b25dd357cc9b8efe
 URL:		http://xorg.freedesktop.org/
 BuildRequires:	autoconf >= 2.57
 BuildRequires:	automake
