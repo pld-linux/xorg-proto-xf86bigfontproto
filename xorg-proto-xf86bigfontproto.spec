@@ -5,7 +5,7 @@ Version:	1.1.2
 Release:	2
 License:	MIT
 Group:		X11/Development/Libraries
-Source0:	http://xorg.freedesktop.org/releases/X11R7.0/src/proto/xf86bigfontproto-%{version}.tar.bz2
+Source0:	http://xorg.freedesktop.org/releases/individual/proto/xf86bigfontproto-%{version}.tar.bz2
 # Source0-md5:	a318c1e86123832d7b0c95fc7d47ef35
 URL:		http://xorg.freedesktop.org/
 BuildRequires:	autoconf >= 2.57
