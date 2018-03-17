@@ -1,13 +1,14 @@
+# NOTE: now maintained in xorg-proto-xorgproto.spec
 Summary:	XF86BigFont extension headers
 Summary(pl.UTF-8):	Nagłówki rozszerzenia XF86BigFont
 Name:		xorg-proto-xf86bigfontproto
 Version:	1.2.0
-Release:	2
+Release:	2.1
 License:	MIT
 Group:		X11/Development/Libraries
-Source0:	http://xorg.freedesktop.org/releases/individual/proto/xf86bigfontproto-%{version}.tar.bz2
+Source0:	https://xorg.freedesktop.org/releases/individual/proto/xf86bigfontproto-%{version}.tar.bz2
 # Source0-md5:	120e226ede5a4687b25dd357cc9b8efe
-URL:		http://xorg.freedesktop.org/
+URL:		https://xorg.freedesktop.org/
 BuildRequires:	autoconf >= 2.57
 BuildRequires:	automake
 BuildRequires:	xorg-util-util-macros >= 1.2
